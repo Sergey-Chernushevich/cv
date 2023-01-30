@@ -1,0 +1,19 @@
+@media (max-width: 1200px) {
+  h1 {
+    font-size: 55px;
+  }
+}
+@media (max-width: 922px) {
+  h1 {
+    font-size: 50px;
+  }
+
+  .slider-window {
+    min-width: 330px;
+    width: 330px;
+  }
+}
+@media (max-width: 768px) {
+}
+@media (max-width: 576px) {
+}
